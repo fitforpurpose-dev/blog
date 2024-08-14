@@ -1,12 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Fit for Puprose</title>
+    <title>Fit for Purpose</title>
     <link>https://fitforpurpose.dev/</link>
-    <description>Recent content on Fit for Puprose</description>
+    <description>Recent content on Fit for Purpose</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-gb</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 16:44:27 +0100</lastBuildDate>
     <atom:link href="https://fitforpurpose.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Make Your Product Programmable</title>
+      <link>https://fitforpurpose.dev/posts/platforms-and-products/make-your-product-programmable/</link>
+      <pubDate>Wed, 14 Aug 2024 16:44:27 +0100</pubDate>
+      <guid>https://fitforpurpose.dev/posts/platforms-and-products/make-your-product-programmable/</guid>
+      <description>Your team builds builds a new product feature. Let&amp;rsquo;s say it&amp;rsquo;s a system that moves money from a bank account to another (sorry, I spent too much time in FinTech).
+Your feature is such a success, that other teams want to use the same primitives. Unfortunately, all your code has been built in private scopes, and your team doesn&amp;rsquo;t have the bandwidth to polish it up for external use; after all your OKRs are around customer satisfaction and revenue generation, not internal company happiness.</description>
+    </item>
+    <item>
+      <title>Treat products like platforms, treat platforms like products</title>
+      <link>https://fitforpurpose.dev/posts/platforms-and-products/</link>
+      <pubDate>Wed, 14 Aug 2024 16:40:50 +0100</pubDate>
+      <guid>https://fitforpurpose.dev/posts/platforms-and-products/</guid>
+      <description>During my career, I&amp;rsquo;ve covered the full gamut of product and platform roles, from front-end features users interact with, to building business logic primitives other teams would interact with, to testing libraries, to wrangling with kubernetes down to (bad) attempts at debugging syscalls.
+While my experience is not particularly unique, I did find myself wondering why some of the product teams I&amp;rsquo;ve interacted with don&amp;rsquo;t apply some basic patterns of platform management that would benefit them, and viceversa.</description>
+    </item>
   </channel>
 </rss>
